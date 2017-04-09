@@ -1,0 +1,14 @@
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\bin\Debug\practiceDataTrigger2.exe.config
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\bin\Debug\practiceDataTrigger2.exe
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\bin\Debug\practiceDataTrigger2.pdb
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\practiceDataTrigger2.csprojResolveAssemblyReference.cache
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\MainWindow.g.cs
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\App.g.cs
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\practiceDataTrigger2_MarkupCompile.cache
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\practiceDataTrigger2_MarkupCompile.lref
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\MainWindow.baml
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\practiceDataTrigger2.g.resources
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\practiceDataTrigger2.Properties.Resources.resources
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\practiceDataTrigger2.csproj.GenerateResource.Cache
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\practiceDataTrigger2.exe
+c:\users\swagatika\documents\visual studio 2015\Projects\practiceDataTrigger2\practiceDataTrigger2\obj\Debug\practiceDataTrigger2.pdb
